@@ -2205,7 +2205,7 @@ textarea.w-select {
   --paragraph-font--p-t: 14px;
   --paragraph-font--p-l: 13px;
   --paragraph-font--p-m: 14px;
-  --heading-four-font--orange: #ff632e;
+  --heading-four-font--orange: #007674;
   --heading-four-font--dark-bg-color: black;
   --heading-four-font--white: white;
   --heading-four-font--card-border-color: #c9c9c9;
@@ -3665,7 +3665,7 @@ li {
 
 .button.background-color-change.button-text.career-form-buttton {
   z-index: 1;
-  background-color: #ff632e00;
+  background-color: #00767400;
   width: 100%;
   position: relative;
 }
@@ -4026,7 +4026,7 @@ li {
 }
 
 .link-text {
-  color: #ff632e;
+  color: #007674;
   font-family: Urbanist, sans-serif;
   font-weight: 600;
 }
@@ -4052,7 +4052,7 @@ li {
 
 .provide-card-hover-effect {
   z-index: 1;
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 8px;
   margin: -22px -1px;
   position: absolute;
@@ -4188,11 +4188,11 @@ li {
 }
 
 .subheading-text {
-  color: #ff632e;
+  color: #007674;
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: Urbanist, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -4245,7 +4245,7 @@ li {
 }
 
 .heading-style-h4 {
-  color: #ff632e;
+  color: #007674;
   font-family: Urbanist, sans-serif;
   font-size: var(--heading-four-font--h4-s);
   font-weight: 600;
@@ -4403,7 +4403,7 @@ li {
 }
 
 .conversation-icon {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50%;
   padding: 30px;
 }
@@ -4595,7 +4595,7 @@ li {
 }
 
 .email-text:hover {
-  color: #ff632e;
+  color: #007674;
 }
 
 .footer-lower-right-part {
@@ -4652,8 +4652,8 @@ li {
   align-items: center;
   width: 100%;
   margin-right: auto;
-  padding-top: 44px;
-  padding-bottom: 44px;
+  padding-top: 24px;
+  padding-bottom: 14px;
   display: flex;
 }
 
@@ -4840,13 +4840,13 @@ li {
 }
 
 .counter-number {
-  color: #ff632e;
+  color: #007674;
   margin-top: -8px;
   padding-bottom: 0;
 }
 
 .heading-style-h2 {
-  color: #ff632e;
+  color: #007674;
   font-family: Urbanist, sans-serif;
   font-size: var(--heading-two-font--h2-s);
   font-weight: 600;
@@ -4926,7 +4926,7 @@ li {
 
 .image-overlay {
   z-index: 1;
-  background-image: linear-gradient(#ff632e5e 49%, #13131300);
+  background-image: linear-gradient(#0076745e 49%, #13131300);
   border-radius: 8px;
   flex-flow: column;
   justify-content: flex-end;
@@ -4937,16 +4937,16 @@ li {
 
 .image-overlay.change-radius {
   background-image: linear-gradient(0deg, #131313, #13131300 13%),
-    linear-gradient(#ff632e5e 49%, #13131300);
+    linear-gradient(#0076745e 49%, #13131300);
   border-radius: 0;
 }
 
 .image-overlay.change-radius.change-overlay-color {
-  background-image: linear-gradient(#ff632e5e 70%, #13131300);
+  background-image: linear-gradient(#0076745e 70%, #13131300);
 }
 
 .image-overlay.change-overlay {
-  background-image: linear-gradient(#ff632e5e 60%, #13131380 93%);
+  background-image: linear-gradient(#0076745e 60%, #13131380 93%);
 }
 
 .overview {
@@ -4956,7 +4956,7 @@ li {
 }
 
 .overview-para {
-  max-width: 411px;
+  max-width: 611px;
 }
 
 .overlay-image-content {
@@ -5017,8 +5017,8 @@ li {
 }
 
 .contact-link {
-  color: #ff632e;
-  border-bottom: 1px solid #ff632e;
+  color: #007674;
+  border-bottom: 1px solid #007674;
 }
 
 .partner-content {
@@ -5096,7 +5096,7 @@ li {
 }
 
 .team-button {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -5184,7 +5184,7 @@ li {
 }
 
 .topbar {
-  background-color: #ff632e;
+  background-color: #007674;
   padding-top: 7px;
   padding-bottom: 1px;
 }
@@ -5236,7 +5236,7 @@ li {
 }
 
 .text-orange {
-  color: #ff632e;
+  color: #007674;
 }
 
 .home-three-nav-button {
@@ -5293,7 +5293,7 @@ li {
 }
 
 .insurance-lower-part {
-  background-color: #ff632e;
+  background-color: #007674;
   padding-top: 20px;
   padding-bottom: 20px;
   overflow: hidden;
@@ -5609,7 +5609,7 @@ li {
 }
 
 .check-box-active {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -5621,7 +5621,7 @@ li {
 }
 
 .check-box {
-  border: 1px solid #ff632e;
+  border: 1px solid #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -5758,7 +5758,7 @@ li {
 }
 
 .mission-check-box {
-  border: 1px solid #ff632e;
+  border: 1px solid #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -6128,8 +6128,8 @@ li {
 }
 
 .contact-link-2 {
-  color: #ff632e;
-  border-bottom: 1px solid #ff632e;
+  color: #007674;
+  border-bottom: 1px solid #007674;
   max-width: 104px;
 }
 
@@ -6321,7 +6321,7 @@ li {
 }
 
 .orange-block {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 100px;
   width: 85%;
   height: 8px;
@@ -6444,7 +6444,7 @@ li {
 }
 
 .outsource-arrow-wrapper {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -7658,7 +7658,7 @@ li {
 }
 
 .project-card-heading {
-  background-color: #ff632e;
+  background-color: #007674;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   padding-top: 12px;
@@ -7746,7 +7746,7 @@ li {
 
 .orange-button {
   cursor: pointer;
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50px;
   justify-content: flex-start;
   align-items: center;
@@ -7980,7 +7980,7 @@ li {
 }
 
 .subscription-checkbox {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -8024,7 +8024,7 @@ li {
 
 .subscription-orange-block {
   background-color: #fff;
-  border: 1px solid #ff632e;
+  border: 1px solid #007674;
   border-radius: 40px;
   padding: 5px 10px;
 }
@@ -8094,7 +8094,7 @@ li {
 }
 
 .overview-checkbox {
-  border: 1px solid #ff632e;
+  border: 1px solid #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -8524,7 +8524,7 @@ li {
 }
 
 .career-details-lower-part {
-  border-left: 3px solid #ff632e;
+  border-left: 3px solid #007674;
   padding-left: 20px;
 }
 
@@ -8551,7 +8551,7 @@ li {
 }
 
 .career-orange-square {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 5px;
   justify-content: center;
   align-items: center;
@@ -8815,7 +8815,7 @@ li {
 }
 
 .icon-border {
-  border: 1px dashed #ff632e;
+  border: 1px dashed #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -8830,7 +8830,7 @@ li {
 }
 
 .employment-orange-block {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -8956,7 +8956,7 @@ li {
 }
 
 .project-variant-one {
-  background-color: #ff632e;
+  background-color: #007674;
   width: 100%;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -9151,7 +9151,7 @@ li {
 }
 
 .team-orange-block {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 100px;
 }
 
@@ -9353,7 +9353,7 @@ li {
 }
 
 .team-card-overlay-2.change-team-overlay {
-  background-image: linear-gradient(#ff632e47, #fff0),
+  background-image: linear-gradient(#00767447, #fff0),
     linear-gradient(#13131300, #131313);
 }
 
@@ -10976,7 +10976,7 @@ li {
 
 .experience-heading {
   text-align: center;
-  max-width: 460px;
+  max-width: 660px;
 }
 
 .offer-image-content,
@@ -11158,14 +11158,14 @@ li {
 }
 
 .global-orange-block {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 8px;
   width: 75%;
   height: 8px;
 }
 
 .client-orange-block {
-  background-color: #ff632e;
+  background-color: #007674;
   border-radius: 8px;
   width: 90%;
   height: 8px;
@@ -11269,7 +11269,7 @@ li {
 }
 
 .achievement-bottom-overlay {
-  background-color: #ff632e;
+  background-color: #007674;
   height: 86%;
   position: absolute;
   inset: auto 0% 0%;
@@ -11340,7 +11340,7 @@ li {
 }
 
 .heading-style-h2-2 {
-  color: #ff632e;
+  color: #007674;
   font-family: Urbanist, sans-serif;
   font-size: 35px;
   font-weight: 600;
@@ -11586,7 +11586,7 @@ li {
 
 .plus-overlay {
   z-index: 1;
-  background-image: linear-gradient(#ff632e4d, #0009);
+  background-image: linear-gradient(#0076744d, #0009);
   flex-flow: column;
   justify-content: space-between;
   align-items: center;
@@ -12623,7 +12623,7 @@ li {
 }
 
 .orange-overlay {
-  background-image: linear-gradient(90deg, #ff632e00, #ff632e 53%, #fff0);
+  background-image: linear-gradient(90deg, #00767400, #007674 53%, #fff0);
   width: 200px;
   height: 80px;
 }
@@ -12750,7 +12750,7 @@ li {
 }
 
 .button-4.background-color-change {
-  background-color: #ff632e;
+  background-color: #007674;
 }
 
 .auto-fit-3 {
@@ -12953,7 +12953,7 @@ li {
 }
 
 .button-5.background-color-change {
-  background-color: #ff632e;
+  background-color: #007674;
 }
 
 .testimonial-card {
@@ -13071,7 +13071,7 @@ li {
 }
 
 .button-6.background-color-change {
-  background-color: #ff632e;
+  background-color: #007674;
 }
 
 .section-2 {
@@ -13233,7 +13233,7 @@ li {
   }
 
   .heading-style-h6.text-white:hover {
-    color: #ff632e;
+    color: #007674;
   }
 
   .corporate-content {
@@ -13268,7 +13268,7 @@ li {
   }
 
   .email-text:hover {
-    color: #ff632e;
+    color: #007674;
   }
 
   .logo-content-two.border-right-remove {
@@ -13304,7 +13304,7 @@ li {
   }
 
   .heading-style-h2 {
-    color: #ff632e;
+    color: #007674;
     font-family: Urbanist, sans-serif;
     font-size: var(--heading-two-font--h2-d);
     font-weight: 600;
@@ -13681,7 +13681,7 @@ li {
   }
 
   .heading-style-h6-4.text-white:hover {
-    color: #ff632e;
+    color: #007674;
   }
 
   .contact-form-wrapper {
@@ -13833,7 +13833,7 @@ li {
   }
 
   .heading-style-h2-2 {
-    color: #ff632e;
+    color: #007674;
     font-family: Urbanist, sans-serif;
     font-size: 40px;
     font-weight: 600;
